@@ -34,6 +34,16 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "PaulTypeSkin0"
     },
+    "image8": {
+        "data": "hwQQABAAAAAAAAAA8A8AAAAA8P//+wAAAPA/s7vr7gAAvzOzu+/0D/A+4//+/7wPX+Szv0G/3fFPRTP+T969/VRF4+5E3t2xVEXj7kTevb1PRTP+T97d8V/ks79Bv7398D7j//7/vA8AvzOzu+/0DwDwP7O76+4AAADw///7AAAAAAAA8A8AAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "King Pauls Girlfriend"
+    },
+    "image9": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAADwDwAAAPD////7AAAAvzOzu7sPAPA7M7O7u/8P8DMzs7v7vg+/MzOzu0/k/f8+4//+T+TxX+Szv0Hvvr1PRTP+T97dsVRF4+5E3r39VEXj7kTe3fFP5TPj/v+/D/D/PzMPAPAPAADw/wAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "GirlFriend Battling"
+    },
     "anim1": {
         "namespace": "myAnimations",
         "id": "anim1",
