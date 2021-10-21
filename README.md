@@ -3,14 +3,7 @@
 
 > Open this page at [https://tpro99oficial.github.io/pauls-adventure/](https://tpro99oficial.github.io/pauls-adventure/)
 
-## Use as Extension
 
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/tpro99oficial/pauls-adventure** and import
 
 ## Edit this project ![Build status badge](https://github.com/tpro99oficial/pauls-adventure/workflows/MakeCode/badge.svg)
 
@@ -54,3 +47,16 @@ for Linux we recommend Ubuntu 20.04 LTS with a web browser like FireFox or Opera
 in Mobile open Google Chrome OR Apple Safari and go to https://tpro99oficial.github.io/pauls-adventure
 in Windows go Microsoft Edge OR Internet Explorer in MacOS go Safari OR Microsoft Edge for Mac and go to https://tpro99oficial.github.io/pauls-adventure and use SPACE for A or WASD to move and Click The Menu button in the Window to go to the Main Menu
 in Linux go FireFox OR Opera or your Web Browser and go https://tpro99oficial.github.io/pauls-adventure and use SPACE for A or WASD to move and Click The Menu button in the Window to go to the Main Menu
+
+# How to Play 2 Players
+> Note This Only Works in The PC Version do not try for it in Mobile
+ Open Pauls Adventure in your PC (https://tpro99oficial.github.io/pauls-adventure)
+ > NOTE 2 Players-Mode Is In Early Beta and it COULDNT Work we recomend to wait for the 1.2.1 Update 
+ #### 2d Player Controls
+ Move: I J K L
+ A Button: U
+ B Button: O
+ #### 1th Player Controls
+ Move: WASD 
+ A Button: SPACE
+ B Button: ENTER
