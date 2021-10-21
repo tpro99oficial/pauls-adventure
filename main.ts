@@ -1,3 +1,7 @@
+controller.B.onEvent(ControllerButtonEvent.Pressed, function () {
+    playerSprite.sayText("Want To Go To The NEXT Level? Loading Level 2 Reset to Return Level 1", 5000, true)
+    tiles.setTilemap(tilemap`level2 Dungeon`)
+})
 controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
     swordSwung = true
     playerSprite.setImage(assets.image`PaulSword`)
