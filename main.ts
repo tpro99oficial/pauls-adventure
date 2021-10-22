@@ -45,7 +45,7 @@ info.setLife(3)
 controller.moveSprite(playerSprite)
 scene.cameraFollowSprite(playerSprite)
 Player2 = sprites.create(assets.image`King Pauls Girlfriend`, SpriteKind.Player)
-controller.player2.moveSprite(Player2)
+controller.player2.moveSprite(Player2, 100, 100)
 for (let index = 0; index < 4; index++) {
     enemySprite = sprites.create(assets.image`enemyImage`, SpriteKind.Enemy)
     enemySprite.setPosition(randint(50, 130), randint(50, 130))
