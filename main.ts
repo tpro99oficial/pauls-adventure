@@ -6,7 +6,6 @@ controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
     swordSwung = true
     Player2 = sprites.create(assets.image`GirlFriend Battling`, SpriteKind.Player)
     playerSprite.setImage(assets.image`PaulSword`)
-    enemySprite.sayText("HEY STOP KILLING US NOOOOOOOOOOOOO", 5000, true)
     pause(5000)
     playerSprite.setImage(assets.image`PaulTypeSkin0`)
     Player2 = sprites.create(img`
