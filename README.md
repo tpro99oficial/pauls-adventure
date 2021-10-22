@@ -49,9 +49,8 @@ in Windows go Microsoft Edge OR Internet Explorer in MacOS go Safari OR Microsof
 in Linux go FireFox OR Opera or your Web Browser and go https://tpro99oficial.github.io/pauls-adventure and use SPACE for A or WASD to move and Click The Menu button in the Window to go to the Main Menu
 
 # How to Play 2 Players
-> Note This Only Works in The PC Version do not try for it in Mobile
- Open Pauls Adventure in your PC (https://tpro99oficial.github.io/pauls-adventure)
- > NOTE 2 Players-Mode Is In Early Beta and it COULDNT Work we recomend to wait for the 1.2.1 Update 
+ Note This Only Works in The PC Version do not try for it in Mobile
+ Open Pauls Adventure in your PC (https://tpro99oficial.github.io/pauls-adventure) NOTE 2 Players-Mode Is In Early Beta and it COULDNT Work we recomend to wait for the 1.2.1 Update 
  #### 2d Player Controls
  Move: I J K L
  A Button: U
