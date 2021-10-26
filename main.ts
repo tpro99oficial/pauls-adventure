@@ -51,3 +51,6 @@ for (let index = 0; index < 4; index++) {
     enemySprite.setPosition(randint(50, 130), randint(50, 130))
     enemySprite.follow(playerSprite, 10)
 }
+game.onUpdate(function () {
+    playerSprite.sayText("Welcome to Pauls Adventure 1.2.2")
+})
